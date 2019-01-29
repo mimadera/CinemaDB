@@ -1,0 +1,15 @@
+use cinema;
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,1,'Black');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,2,'Black');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,3,'Black');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,4,'Black');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,5,'Black');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,6,'Black');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,7,'Black');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,1,'Red');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,2,'Red');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,3,'Red');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,4,'Red');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,5,'Red');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,6,'Red');
+INSERT INTO Seat(rowNumber, seatNumber, theaterName) VALUES (1,7,'Red');

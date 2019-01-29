@@ -1,0 +1,1 @@
+SELECT DISTINCT cinemaShow.movieTitle,  cinemaShow.date_start, theaterName FROM cinemaShow;
